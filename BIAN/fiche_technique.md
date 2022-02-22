@@ -26,13 +26,13 @@ Robot en tige de métal qui forme un squelette, avec un crâne humain en plastiq
 Les membres du corps son rattacher a plusieur cable relier au circuit qui contrôle les mouvements du squelette. Les squelettes symbolises des patients en soins intensif.
 D'ou son nom, "intensive care unit".
 
-![squelette_moi](medias/)
-![squelette_moi](medias/)
+![squelette_1](medias/20220209_110528.jpg)
+![squelette_2](medias/20220209_105432.jpg)
 
 
 ### Explications sur la mise en espace de l'oeuvre ou du dispositif:
 
-![squelette_moi](medias/)
+![croquis](medias/)
 Les quatres squelette sont disposé également par rapport au milieu de la pièce, en entrant dans le côté droit de la pièce il y a un rideau avec l'ordinateur de contrôle
 
 
@@ -41,12 +41,14 @@ Les quatres squelette sont disposé également par rapport au milieu de la pièc
 * 2 haut-parleur 
 * 4 rectangle lumineux de lumière blanche (qui flash) alternant au bleu et au vert.
 * 4 squelette en acier 
-* Cage supportant au plafond les lumière et haut-parleur.
-* Cable donnant du courant au oeuvre
-![squelette_moi](medias/)
-![squelette_moi](medias/)
+
+![squelette_moi](medias/20220209_110701.jpg)
+![squelette_moi](medias/20220209_103954.jpg)
 
 ### Liste des éléments nécessaires pour la mise en exposition:
+* Cable donnant du courant au oeuvre
+* Ordinateur de contrôle
+* Cage supportant au plafond les lumière et haut-parleur.
 
 ### Expérience vécue :
 
