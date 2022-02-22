@@ -4,7 +4,7 @@
 ### Titre de l'oeuvre ou de la réalisation:
 I.C.U (intensive care unit) 
 
-![squelette]()
+![squelette_moi](20220209_110329.jpg)
 
 ### Nom de l'artiste ou de la firme:
 Bill Morin, né a Montréal (Québec, Canada).
