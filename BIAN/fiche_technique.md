@@ -1,7 +1,8 @@
 # Fiche technique I.C.U
 
 
-![waaaaa] (media/
+![waaaaa](media/20220209_110044.jpg)
+
 ### Titre de l'oeuvre ou de la réalisation:
 I.C.U (intensive care unit) 
 
