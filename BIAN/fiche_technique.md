@@ -1,10 +1,10 @@
 # Fiche technique I.C.U
 
 
-![waaaaa](media/20220209_110044.jpg)
-
 ### Titre de l'oeuvre ou de la réalisation:
 I.C.U (intensive care unit) 
+
+![squelette]()
 
 ### Nom de l'artiste ou de la firme:
 Bill Morin, né a Montréal (Québec, Canada).
