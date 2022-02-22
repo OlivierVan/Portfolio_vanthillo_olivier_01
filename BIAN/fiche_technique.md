@@ -10,7 +10,7 @@ I.C.U (intensive care unit)
 Bill Morin, né a Montréal (Québec, Canada).
 
 ### Année de réalisation:
-?
+2021
 
 ### Nom de l'exposition ou de l'événement:
 Biennal international d'art numérique. 
@@ -21,17 +21,29 @@ Biennal international d'art numérique.
 ### Date de votre visite:
 9 Février 2022
 
+
+### Croquis
+
+
+
+
 ### Description de l'oeuvre ou du dispositif multimédia:
-Robot en tige de métal qui forme un squelette, avec un crâne humain en plastique a la place sa tête. Sur la tête il y a un apareil d'assistance respiratoir.
-Les membres du corps son rattacher a plusieur
+Robot en tige de métal qui forme un squelette, avec un crâne humain en plastique a la place de sa tête. Sur la tête il y a un apareil d'assistance respiratoire.
+Les membres du corps son rattacher a plusieur cable relier au circuit qui contrôle les mouvements du squelette. Les squelettes symbolises des patients en soins intensif.
+D'ou son nom, "intensive care unit".
 
 
 ### Explications sur la mise en espace de l'oeuvre ou du dispositif:
+
+Les quatres squelette sont disposé également par rapport au milieu de la pièce, en entrant dans le côté droit de la pièce il y a un rideau avec l'ordinateur de contrôle
 
 ### Liste des composantes et techniques de l'oeuvre ou du dispositif:
 * 8 projecteur de lumière rouge qui change au bleu, vice versa.
 * 2 haut-parleur 
 * 4 rectangle lumineux de lumière blanche (qui flash) alternant au bleu et au vert.
+* 4 squelette en acier 
+* Cage supportant au plafond les lumière et haut-parleur.
+* Cable donnant du courant au oeuvre
 
 ### Liste des éléments nécessaires pour la mise en exposition:
 
