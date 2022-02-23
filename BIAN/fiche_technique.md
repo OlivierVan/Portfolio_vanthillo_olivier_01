@@ -32,9 +32,10 @@ D'ou son nom, "intensive care unit".
 
 ### Explications sur la mise en espace de l'oeuvre ou du dispositif:
 
-![croquis](croquis/Sans titre-1.jpg)
+![Sans titre-1](https://user-images.githubusercontent.com/93718483/155250170-b404352d-fafa-4d4f-860e-9914653387e3.jpg)
 
 Les quatres squelette sont disposé également par rapport au milieu de la pièce, en entrant dans le côté droit de la pièce il y a un rideau avec l'ordinateur de contrôle
+
 
 
 ### Liste des composantes et techniques de l'oeuvre ou du dispositif:
@@ -55,9 +56,13 @@ Les quatres squelette sont disposé également par rapport au milieu de la pièc
 
 Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
 
-❤️Ce qui vous a plu, vous a donné des idées et justifications
+### ❤️Ce qui vous a plu, vous a donné des idées et justifications
+J'ai beaucoup aimé le fait que tous les cables et panneau de contrôle soient mise en valeur. La disposition des éléments faisait en sorte qu'on se croyait presque dans une vrai unité de soin intensif.
 
-🤔Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
+
+### 🤔Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
+Le seul aspect que j'ai moin aimé est que parfois la salle devenait presque complètement noir pendant un bon moment. C'est surement un choix artistique de l'artiste, mais j'ai moin aimé cette partie.
+
 
 Références
 https://www.elektramontreal.ca/bian2021-billvorn
