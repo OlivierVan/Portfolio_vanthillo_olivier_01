@@ -32,7 +32,8 @@ D'ou son nom, "intensive care unit".
 
 ### Explications sur la mise en espace de l'oeuvre ou du dispositif:
 
-![croquis](medias/)
+![croquis](croquis/Sans titre-1.jpg)
+
 Les quatres squelette sont disposé également par rapport au milieu de la pièce, en entrant dans le côté droit de la pièce il y a un rideau avec l'ordinateur de contrôle
 
 
