@@ -13,7 +13,7 @@ Le jeu temporel est parfait pour sensibiliser ses visiteurs, les premières ques
 
 ### 3- 3 minutes 
 
-Le projet « 3 minutes » explique très bien le phénomène 
+Le projet « 3 minutes » explique très bien le phénomène démontré, le fait de 
 
 
 
