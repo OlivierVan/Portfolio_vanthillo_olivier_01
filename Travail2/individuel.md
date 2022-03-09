@@ -54,3 +54,24 @@ Je me sentirais immersé dans la chambre de Sasha, comme si j'y étais vraiment.
 
 
 
+## Le rôle que je me vois jouer dans un tel projet.
+
+
+### 1- L'horloge de l'apocalypse.
+
+
+### 2- Jeu temporel.
+
+
+### 3- 3 minutes.
+
+
+### 4- Distortion collective.
+
+
+### 5- Chère Sasha.
+
+
+### 6- Chronaufrage.
+
+
