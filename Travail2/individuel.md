@@ -63,7 +63,7 @@ Dans ce projet je m'occuperais de la coordination artistique et des illustration
  
 ### 2- Jeu temporel.
 
-Dans ce projet j'aurais le travail de philippe, c'est a dire la
+Dans ce projet j'aurais le travail de philippe, c'est a dire la gestion du projet. Car pour l'instant je ne suis pas encore assez bon en programmation.
 
 ### 3- 3 minutes.
 
