@@ -59,9 +59,11 @@ Je me sentirais immersé dans la chambre de Sasha, comme si j'y étais vraiment.
 
 ### 1- L'horloge de l'apocalypse.
 
-
+Dans ce projet je m'occuperais de la coordination artistique et des illustration et animation nécessaire au projet.
+ 
 ### 2- Jeu temporel.
 
+Dans ce projet j'aurais le travail de philippe, c'est a dire la
 
 ### 3- 3 minutes.
 
