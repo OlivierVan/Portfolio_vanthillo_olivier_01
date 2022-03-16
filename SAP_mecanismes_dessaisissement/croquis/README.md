@@ -1,1 +1,1 @@
-Ce dossier contien les croquis sur l'exposition.
+Ce dossier contient les croquis sur l'exposition.
