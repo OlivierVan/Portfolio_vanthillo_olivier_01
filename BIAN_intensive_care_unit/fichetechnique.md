@@ -4,7 +4,7 @@
 ### Titre de l'oeuvre ou de la réalisation:
 I.C.U (intensive care unit) 
 
-![squelette_moi](medias/20220209_110329.jpg)
+![squelette_moi](images/20220209_110329.jpg)
 
 ### Nom de l'artiste ou de la firme:
 Bill Morin, né a Montréal (Québec, Canada).
@@ -26,8 +26,8 @@ Robot en tige de métal qui forme un squelette, avec un crâne humain en plastiq
 Les membres du corps son rattacher a plusieur cable relier au circuit qui contrôle les mouvements du squelette. Les squelettes symbolises des patients en soins intensif.
 D'ou son nom, "intensive care unit".
 
-![squelette_1](medias/20220209_110528.jpg)
-![squelette_2](medias/20220209_105432.jpg)
+![squelette_1](images/20220209_110528.jpg)
+![squelette_2](images/20220209_105432.jpg)
 
 
 ### Explications sur la mise en espace de l'oeuvre ou du dispositif:
@@ -44,8 +44,8 @@ Les quatres squelette sont disposé également par rapport au milieu de la pièc
 * 4 rectangle lumineux de lumière blanche (qui flash) alternant au bleu et au vert.
 * 4 squelette en acier 
 
-![squelette_moi](medias/20220209_110701.jpg)
-![squelette_moi](medias/20220209_103954.jpg)
+![squelette_moi](images/20220209_110701.jpg)
+![squelette_moi](images/20220209_103954.jpg)
 
 ### Liste des éléments nécessaires pour la mise en exposition:
 * Cable donnant du courant au oeuvre
