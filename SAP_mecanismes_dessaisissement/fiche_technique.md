@@ -10,7 +10,7 @@ Configuration du sensible.
 ## Lieu de mise en exposition :
 Salle Alfred Pellan de la Maison des arts de Laval, Laval
 ## Date de votre visite :
-16 mars 2022
+9 mars 2022
 ## Description de l'oeuvre ou du dispositif multimédia :
 ![cartel](medias/cartel.jpg)
 ## Explications sur la mise en espace de l'oeuvre ou du dispositif :
