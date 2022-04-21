@@ -12,13 +12,12 @@ Grand studio, Collège Montmorency, Laval.
 ## Date de votre visite :
 23 mars 2022
 ## Description de l'oeuvre ou du dispositif multimédia :
-
+L'Horloge de l'apocalypse, représente les heures face a la priode actuelle. Par exmemple selon l'horloge, on serait a eviron 11h58, soit 2 minutes avant la destruction du monde. L'oeuvre nous sensibilise face a l'Apocalypse imminente.
 ## Explications sur la mise en espace de l'oeuvre ou du dispositif :
-![croquis](croquis/Croquis.png)
-![carre](medias/carre.jpg)
-![triangle](medias/triangle.jpg)
-![cercle](medias/cercle.jpg)
+![croquis](medias/croquis.jpg)
 ## Liste des composantes et techniques de l'oeuvre ou du dispositif :
+
+![carre](medias/carre.jpg)
 * projecteurs
 * tige de métal avec lumière rattacher a eux
 * formes en acrylique (carré, cercle, triangle)
