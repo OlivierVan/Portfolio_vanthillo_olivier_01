@@ -35,3 +35,46 @@ Beaucoup d'effort a été mis dans ce projet, un de mes aspects préféré est l
 Les décors étaits bien réalisé mais je trouve que les animations aurais pû être un peu plus complexe.
 ## Références
 https://tim-montmorency.com/2022/projets/L-horloge-de-l-apocalypse/docs/web/index.html
+
+# Liste de préférence
+
+## Avant visite
+### 1- L'horloge de l'apocalypse.
+
+ 
+### 2- Jeu temporel.
+
+
+### 3- 3 minutes.
+
+
+### 4- Distortion collective.
+
+
+### 5- Chère Sasha.
+
+
+### 6- Chronaufrage.
+
+
+
+
+
+
+## Après visite
+### 1- L'horloge de l'apocalypse.
+
+ 
+### 2- Jeu temporel.
+
+
+### 3- 3 minutes.
+
+
+### 4- Chronaufrage.
+
+
+### 5- Chère Sasha.
+
+
+### 6- Distortion collective.
