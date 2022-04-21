@@ -78,3 +78,8 @@ https://tim-montmorency.com/2022/projets/L-horloge-de-l-apocalypse/docs/web/inde
 
 
 ### 6- Distortion collective.
+
+## Pourquoi ces changement?
+
+Mon ordre de préférences reste assez semblable a celui avant l'exposition, a l'exception de Chronaufrage et Distortion collective.
+J'ai été vraiment décu par Distortion collective parcequ'il offrait peu même aucune intéractivité. Pour Chronaufrage qui lui est totalement le contraire, je pensais qu'il n'y aurait pas beaucoup d'intéractivité, mais il m'a surpris.
