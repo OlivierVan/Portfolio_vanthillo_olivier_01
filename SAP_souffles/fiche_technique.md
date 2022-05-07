@@ -19,8 +19,16 @@ Plusieurs lentilles de diverse forme et motif aligner l'une a la suite de l'autr
 ## Explications sur la mise en espace de l'oeuvre ou du dispositif
 L'oeuvre est disposé dans le fond de la pièce. 
 ![croquis](croquis/croquis.png)
-## Liste des composantes et techniques de l'oeuvre ou du dispositif (ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...)
-## Liste des éléments nécessaires pour la mise en exposition (ex. : crochets, sac de sable, câbles de soutien...)
+## Liste des composantes et techniques de l'oeuvre ou du dispositif 
+* moteurs 
+* souffleurs
+* flûtes
+* lentilles
+* DEL
+* tôle galvanisée
+## Liste des éléments nécessaires pour la mise en exposition
+* trépied
+* circuit électronique
 ## Expérience vécue:
 ## Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
 ## ❤️ Ce qui vous a plu, vous a donné des idées et justifications
