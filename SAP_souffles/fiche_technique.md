@@ -1,15 +1,17 @@
 # Titre de l'oeuvre ou de la réalisation
 ## Souffles
-![oeuvre](medias/rapprocher.jpg)
+
+<img src="medias/rapprocher.jpg" width="400" height="500">
+
 ## Nom de l'artiste ou de la firme
-Manon Labrecque
+Manon Labrecque.
 ## Année de réalisation
-2022
+ 2022.
 ## Nom de l'exposition ou de l'événement
-des [ré]animations
+Des [ré]animations.
 ## Lieu de mise en exposition
 Salle Alfred-Pellan, Maison des arts de Laval.
-## Date de votre visite
+## Date de visite
 Mercredi 4 mai
 ## Description de l'oeuvre ou du dispositif multimédia 
 
@@ -19,12 +21,14 @@ Par la création de divers mécanismes motorisés générant des séquences d'im
 
 ### Description physique de l'oeuvre
 Plusieurs lentilles de diverse forme et motif aligner l'une a la suite de l'autre. Une lumiere les traverse pour projeter une scène sur le mur. L'oeuvre est accompagner de musique. Cette musique qui est représenter par des bruits de sifflet et des percussion sur une plaque d'acier. 
-![project](medias/projection.jpg)
-![cote](medias/vue_cote.jpg)
-![sifflet](medias/sifflet.jpg)
+
+<img src="medias/projection.jpg" width="300" height="400"><img src="medias/vue_cote.jpg" width="300" height="400"><img src="medias/sifflet.jpg" width="300" height="400">
+
 ## Explications sur la mise en espace de l'oeuvre ou du dispositif
 L'oeuvre est disposé dans le fond de la pièce. 
-![croquis](croquis/croquis.png)
+
+<img src="croquis/croquis.png" width="700" height="400">
+
 ## Liste des composantes et techniques de l'oeuvre ou du dispositif 
 * moteurs 
 * souffleurs
