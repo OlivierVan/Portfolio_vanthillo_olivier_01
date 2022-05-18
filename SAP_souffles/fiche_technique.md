@@ -12,6 +12,12 @@ Salle Alfred-Pellan, Maison des arts de Laval.
 ## Date de votre visite
 Mercredi 4 mai
 ## Description de l'oeuvre ou du dispositif multimédia 
+
+### Cartel
+Par la création de divers mécanismes motorisés générant des séquences d'images en mouvement et des sons, par des interventions dessinées au mur et sur papier, par la projection d'images vidéo : un espace-temps se déploie pour apprivoiser les mouvements parfois impétueux de l'existence et les forces incontrôlables qui nous habitent. D'étranges rituels pour réanimer la vie qui s'est éteinte en soi... et pour honorer la puissance de vie qui est en soi
+
+
+### Description physique de l'oeuvre
 Plusieurs lentilles de diverse forme et motif aligner l'une a la suite de l'autre. Une lumiere les traverse pour projeter une scène sur le mur. L'oeuvre est accompagner de musique. Cette musique qui est représenter par des bruits de sifflet et des percussion sur une plaque d'acier. 
 ![project](medias/projection.jpg)
 ![cote](medias/vue_cote.jpg)
